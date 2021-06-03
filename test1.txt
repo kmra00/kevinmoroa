@@ -1,0 +1,10 @@
+ El volumen de la unidad C es 850 evo
+ El n£mero de serie del volumen es: 5CC3-7878
+
+ Directorio de C:\Users\KMrace\Desktop\MyProyect
+
+03-06-2021  09:09    <DIR>          .
+03-06-2021  09:09    <DIR>          ..
+03-06-2021  09:09                 0 test1.txt
+               1 archivos              0 bytes
+               2 dirs  222.200.680.448 bytes libres
